@@ -7,7 +7,7 @@ executed in the remote server and view to output & errors in the local window<p>
 <li>Establish connection using hostname,username & password.</li> 
 <li>User Friendly Program Menu.</li> 
 <li>Can use <b>Save mode</b> to save to outputs of linux commands to a log file.</b> 
-<li><b>listdir</b>option to list all directories</li>
+<li><b>listdir</b> option to list all directories</li>
 <h4>For more info on paramiko library refer this <a href="https://www.paramiko.org/">link</a></h3>
 
 
