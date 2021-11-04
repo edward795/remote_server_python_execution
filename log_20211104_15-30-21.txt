@@ -1,0 +1,12 @@
+##########################################################################
+total 12K
+
+drwxrwxr-x. 2 testAdmin testAdmin 4.0K Sep 17 17:43 root
+
+drwxrwxr-x. 2 testAdmin testAdmin 4.0K Sep 17 17:43 python
+
+-rw-rw-r--. 1 testAdmin testAdmin    0 Sep 17 17:43 sample.txt
+
+drwxrwxr-x. 4 testAdmin testAdmin 4.0K Sep 18 05:20 django
+###########################################################################
+
